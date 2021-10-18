@@ -3,7 +3,9 @@
 
 Google - Kotlin codelab 
 Understanding kotlin classes and functions
-  -simple Button listener & findviewbyid 
+  <tr>-Button listener<br>
+  <tr>-findviewbyid <br>
+    <tr>-Image Properties<br>
 
 Screenshots
 <div><img src="/screenshots/shot1.gif" width="150px"</img></div>
